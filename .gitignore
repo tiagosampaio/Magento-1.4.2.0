@@ -1,0 +1,17 @@
+$ cat .gitignore
+
+.buildpath
+.project
+.settings/*
+source/.metadata/*
+
+source/downloader/*
+source/media/catalog/product/cache/*
+source/var/*
+source/app/etc/local.xml
+source/var/cache/*
+source/var/full_page_cache/*
+source/var/locks/*
+source/var/log/*
+source/var/session/*
+source/media/catalog/product/cache/*
